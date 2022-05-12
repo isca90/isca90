@@ -1,6 +1,6 @@
 ## Hi! My name is Inês, I am 32 years old and I'm from Portugal.
 
-I started my learning path in September 2020 after a brief introduction to Python wich made me fall in love with programming.  
+I started my learning path in September 2021 after a brief introduction to Python wich made me fall in love with programming.  
 Since I enrolled in a full stack development course [Rumos](https://www.rumos.pt/) and got in contact with oop, database programming, front end development, .NET MVC and later Cloud solution with Azure and CI/CD and project managing with Azure DevOps my fascination with programming has grown bigger and the desire to keep learning seems endless.  
 
 Soon i'll share some projects i've been doing in order to showcase my skills.
