@@ -8,10 +8,10 @@ Soon i'll share some projects i've been doing in order to showcase my skills.
 
 - **Skills**:
     - C#
+    - Python
     - ADO.NET
     - ASP.NET MVC
-    - HTML/CSS/JAVASCRIPT    
-    - Python
+    - HTML/CSS/JAVASCRIPT  
     - Certified in *AZ204 - Developing Solutions for Microsoft Azure* 
     
     
