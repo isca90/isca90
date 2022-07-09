@@ -11,12 +11,12 @@ Soon i'll share some projects i've been doing in order to showcase my skills.
     - ADO.NET
     - ASP.NET MVC
     - HTML/CSS/JAVASCRIPT    
+    - Python
     - Certified in *AZ204 - Developing Solutions for Microsoft Azure* 
     
     
 - **Ongoing work and future goals**:
-    - Currently studying for *AZ-400 - Designing and Implementing DevOps Certification*
-    - Soon to start getting ready for certification *PCAP – Certified Associate in Python Programming*
+    - Currently studying for *AZ-400 - Designing and Implementing DevOps Certification* and PCAP – Certified Associate in Python Programming
 
 
 - 📫 You can reach me at inesc90@sapo.pt
