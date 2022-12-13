@@ -24,6 +24,8 @@ Soon i'll share some projects i've been doing in order to showcase my skills.
     - ∞
 
 
-- 📫 You can reach me at inesc90@sapo.pt
+-**Check my certifications**: https://www.credly.com/users/ines-cabaco/badges
 
+
+- 📫 You can reach me at inesc90@sapo.pt
 
