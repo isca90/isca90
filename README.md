@@ -17,7 +17,11 @@ Soon i'll share some projects i've been doing in order to showcase my skills.
     - Certified in *PCAP – Certified Associate in Python Programming*
     
     
-
+- **Plans for the future**:
+    - Looking for a job at the moment
+    - Get confortable with newer versions of .NET
+    - Learn more about SQL
+    - ∞
 
 
 - 📫 You can reach me at inesc90@sapo.pt
