@@ -18,7 +18,6 @@ Soon i'll share some projects i've been doing in order to showcase my skills.
     
     
 - **Plans for the future**:
-    - Looking for a job at the moment
     - Get confortable with newer versions of .NET
     - Learn more about SQL
     - ∞
